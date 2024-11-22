@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'OpenSans';
-  src: url(fonts/opensans/opensans_semibold_macroman/OpenSans-Semibold-webfont.woff);
+  src: url(../fonts/opensans/opensans_semibold_macroman/OpenSans-Semibold-webfont.woff);
 }
 
 #myVideo {
